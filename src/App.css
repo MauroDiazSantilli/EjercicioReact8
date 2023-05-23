@@ -1,0 +1,16 @@
+#root{
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    min-width: 100%;
+  
+  }
+  
+  .mainPage{
+    flex-grow: 1;
+  }
+
+  .titulo {
+    background-color: darkred;
+    padding: 10px;
+  }
